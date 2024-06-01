@@ -1,0 +1,14 @@
+C:\IntroToAI\RobotNavigation\bin\Debug\net8.0\RobotNavigation.exe
+C:\IntroToAI\RobotNavigation\bin\Debug\net8.0\RobotNavigation.deps.json
+C:\IntroToAI\RobotNavigation\bin\Debug\net8.0\RobotNavigation.runtimeconfig.json
+C:\IntroToAI\RobotNavigation\bin\Debug\net8.0\RobotNavigation.dll
+C:\IntroToAI\RobotNavigation\bin\Debug\net8.0\RobotNavigation.pdb
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.AssemblyInfoInputs.cache
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.AssemblyInfo.cs
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.csproj.CoreCompileInputs.cache
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.dll
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\refint\RobotNavigation.dll
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.pdb
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\RobotNavigation.genruntimeconfig.cache
+C:\IntroToAI\RobotNavigation\obj\Debug\net8.0\ref\RobotNavigation.dll
